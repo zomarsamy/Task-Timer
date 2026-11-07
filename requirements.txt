@@ -1,0 +1,2 @@
+pynput>=1.7.7
+openpyxl>=3.1.2
